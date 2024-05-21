@@ -1,0 +1,16 @@
+1. Indique qual o tipo dos seguintes dados (Inteiro, Decimal, String ou Booleano): 
+a) -456 - Inteiro
+b) false - Booleano
+c) “0.87” - String
+d) 1.67 - Decimal
+e) “Casa 8” - String
+f) 0 - Booleano / Inteiro
+g) 1000 - Inteiro
+h) true - Booleano
+i) “-900”  - String
+j) 3 - Inteiro
+k) 0.0 - Booleano / Decimal
+l) -3.1415 - Decimal
+m) 32150 - Inteiro
+n) 128288 - Inteiro
+o) “false” - String
